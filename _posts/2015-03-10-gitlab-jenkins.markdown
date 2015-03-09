@@ -14,7 +14,7 @@ header-img: ""
 
 <h2 id="jenkins-plugin">Jenkins Plugin</h2>
 
-<p>이것저것 깔다가 뭘 깔았는지 잘 기억도 안나지만, 핵심 플러그인은 아래와 같다. </p>
+<p>이것저것 어떤 플러그인을 설치했는지 기억은 안나지만, 핵심 플러그인은 아래와 같다. (아마도)</p>
 
 <ul><li>Credentials Plugin : 인증 관리. GitLab에 인증을 위해 사용한다. </li>
 <li>GIT plugin: Git 플러그인.</li>
