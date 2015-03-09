@@ -56,7 +56,7 @@ sudo -u jenkins cat ~/.ssh/id_rsa.pub
 <li>Credentials : jenkins</li>
 <li>Branches to build: */master</li></ul></li>
 <li>Repository browser : gitlab <br>
-<ul><li>URL : <a href="http://[GITLAB_HOST]/selab/playground" target="_blank">http://[GITLAB_HOST]/selab/playground</a></li>
+<ul><li>URL : <a href="http://[GITLAB 프로젝트 URL]" target="_blank">http://[GITLAB_HOST]/selab/playground</a></li>
 <li>Version : 7.7</li></ul></li>
 <li>빌드유발(Build Trigger) <br>
 <ul><li>Build when a change is pushed to GitLab.</li>
