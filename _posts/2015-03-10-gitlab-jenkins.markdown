@@ -52,7 +52,7 @@ sudo -u jenkins cat ~/.ssh/id_rsa.pub
 <p>여기서는 GitLab 연동을 위한 기본적인 설정만 나열했다.</p>
 
 <ul><li>소스 코드 관리  : Git <br>
-<ul><li>Repository URL : git@203.236.196.136:selab/playground.git</li>
+<ul><li>Repository URL : git@xxx.xxx.xxx.xxx:selab/playground.git</li>
 <li>Credentials : jenkins</li>
 <li>Branches to build: */master</li></ul></li>
 <li>Repository browser : gitlab <br>
